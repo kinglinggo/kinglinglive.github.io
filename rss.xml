@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>kingling’s blog</title>
+        <link>https://kinglinglive.github.io/</link>
+        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <generator>Hugo 0.110.0 https://gohugo.io/</generator>
+        
+            <language>zh</language>
+        
+        
+            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+        
+        
+            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Wed, 22 Feb 2023 14:57:14 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://kinglinglive.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://kinglinglive.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">https://kinglinglive.github.io/posts/hello-world/</guid>
+                <pubDate>Wed, 22 Feb 2023 14:49:16 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h2 id=&#34;开篇介绍&#34;&gt;开篇介绍&lt;/h2&gt;
+&lt;p&gt;一、搭建博客，开始写作。往前走也要记得回头。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

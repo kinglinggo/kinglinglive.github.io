@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title type="text">kingling’s blog</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2023-02-22T14:57:14&#43;08:00</updated>
+    <id>https://kinglinglive.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://kinglinglive.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://kinglinglive.github.io/atom.xml" />
+    <author>
+            <name>reuixiy</name>
+            <uri>https://kinglinglive.github.io/</uri>
+            
+                <email>reuixiy@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
+        <entry>
+            <title type="text">Hello World</title>
+            <link rel="alternate" type="text/html" href="https://kinglinglive.github.io/posts/hello-world/" />
+            <id>https://kinglinglive.github.io/posts/hello-world/</id>
+            <updated>2023-02-22T14:57:10&#43;08:00</updated>
+            <published>2023-02-22T14:49:16&#43;08:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">开篇介绍 一、搭建博客，开始写作。往前走也要记得回头。</summary>
+            
+                <content type="html">&lt;h2 id=&#34;开篇介绍&#34;&gt;开篇介绍&lt;/h2&gt;
+&lt;p&gt;一、搭建博客，开始写作。往前走也要记得回头。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
