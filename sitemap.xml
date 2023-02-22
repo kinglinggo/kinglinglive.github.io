@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kinglinglive.github.io/posts/hello-world/</loc>
+    <loc>http://blog.kingling.net/posts/hello-world/</loc>
     <lastmod>2023-02-22T14:57:10+08:00</lastmod>
   </url><url>
-    <loc>https://kinglinglive.github.io/</loc>
+    <loc>http://blog.kingling.net/</loc>
     <lastmod>2023-02-22T14:57:10+08:00</lastmod>
   </url><url>
-    <loc>https://kinglinglive.github.io/posts/</loc>
+    <loc>http://blog.kingling.net/posts/</loc>
     <lastmod>2023-02-22T14:57:10+08:00</lastmod>
   </url><url>
-    <loc>https://kinglinglive.github.io/categories/</loc>
+    <loc>http://blog.kingling.net/categories/</loc>
   </url><url>
-    <loc>https://kinglinglive.github.io/tags/</loc>
+    <loc>http://blog.kingling.net/tags/</loc>
   </url>
 </urlset>

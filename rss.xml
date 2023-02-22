@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>kingling’s blog</title>
-        <link>https://kinglinglive.github.io/</link>
+        <link>http://blog.kingling.net/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.110.0 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 22 Feb 2023 15:02:56 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 15:12:56 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://kinglinglive.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://blog.kingling.net/rss.xml" />
         
         
             <item>
                 <title>Hello World</title>
-                <link>https://kinglinglive.github.io/posts/hello-world/</link>
-                <guid isPermaLink="true">https://kinglinglive.github.io/posts/hello-world/</guid>
+                <link>http://blog.kingling.net/posts/hello-world/</link>
+                <guid isPermaLink="true">http://blog.kingling.net/posts/hello-world/</guid>
                 <pubDate>Wed, 22 Feb 2023 14:49:16 &#43;0800</pubDate>
                 
                     <author>kinglinglive@163.com (kingling)</author>
